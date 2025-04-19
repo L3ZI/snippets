@@ -25,7 +25,7 @@ Press `Ctrl + Shift + P` (or `Cmd + Shift + P` on Mac).
  2. Search and Select
 
 Type:  
-`Preferences: Configure User Snippets`
+`Snippets: Configure Snippets`
 
  3. Select the Language
 
