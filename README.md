@@ -30,9 +30,6 @@ Type:
  3. Select the Language
 
 Choose one of the following based on your project:
-
-- `javascript`
-- `typescript`
 - `javascriptreact`
 - `typescriptreact`
 
