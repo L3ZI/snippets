@@ -37,7 +37,7 @@ Choose one of the following based on your project:
 
  4. Add Snippet Content
 
-- Open the `js-snippets.json` file (for JavaScript) or `ts-snippets.json` (for TypeScript).
+- Open the `javascriptreact.json` file (for JavaScript) or `typescriptreact.json` (for TypeScript).
 - Copy all the content.
 - Paste it into the snippet editor that opens in VS Code.
 
